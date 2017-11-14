@@ -121,6 +121,7 @@ form{
 .container {
 margin:0 auto;
   width: 520px;
+	margin-left:30px;
   margin-top: 20px;
 }
 
@@ -131,7 +132,7 @@ margin:0 auto;
 .counter {
   display: inline;
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 100px;
   margin-right: 10px;
 }
 
