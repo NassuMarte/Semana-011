@@ -1,0 +1,159 @@
+body {
+	margin: 0 auto;
+	background-color: #D9E021;
+}
+
+/** CONTENEDOR **/
+
+
+
+.contenedor2 {
+	margin: 0 auto; 
+	margin-top: 50px;
+	width: 970px;
+background: #D9E021;
+	border-radius: 20px;
+}
+
+.contenedor1 {
+	margin: 0 auto; 
+	margin-top: 50px;
+	width: 970px;
+background: white;
+	border-radius: 20px;
+}
+
+
+.logo {
+	margin-left: 310px;
+	margin-top:50px;
+}
+.back {
+	float: right;
+	width: 60px;
+	height: 20px;
+	background-color: #076A93;
+	color: white;
+	font-family: 'Dosis', sans-serif;
+	text-align: center;
+	padding: 2px;
+	border-radius: 10px;
+	margin-top: -30px;
+	margin-right: 10px;
+}
+
+.back:hover {
+	background-color: #D9E021;
+	color:#076A93;
+}
+
+button{
+	margin-left: 425px;
+	margin-top: 30px;
+	width: 120px;
+	height:35px;
+	background-color: #076A93;
+	color: white;
+	border-radius: 10px;
+
+}
+
+button:hover {
+	background-color: #D9E021;
+	color:#076A93;
+}
+
+img{
+	justify-content: center;
+}
+
+/*ESTILOS*/
+
+.botonpublicar{
+	font-size: 12px;
+	color: white;
+	border-radius: 10px;
+	width: 40px;
+	height: 20px;
+}
+
+.texto{
+
+	width: 700px;
+	text-align: center;
+	margin:0 auto;
+	font-size: 20px;
+	color: #076A93;
+	font-family: 'Dosis', sans-serif;
+	padding: 10px;
+}
+
+h1{
+font-family: 'Dosis', sans-serif;
+
+}
+h2{
+font-family: 'Dosis', sans-serif;
+font-size: 30px;
+}
+
+
+** FOOTER **/
+
+
+
+
+}
+/*Status box*/
+
+.button-group pull-right{
+	width: 700px;
+
+}
+form{
+	margin-left: 120px;
+	width: 700px;
+}
+.btn btn-primary {
+	background-color: #076A93;
+}
+
+.container {
+margin:0 auto;
+  width: 520px;
+  margin-top: 20px;
+}
+
+.button-group {
+  margin-bottom: 20px;
+}
+
+.counter {
+  display: inline;
+  margin-top: 0;
+  margin-left: -480px;
+  margin-bottom: 0;
+  margin-right: 10px;
+}
+
+.posts {
+  clear: both;
+  list-style: none;
+  margin: 0 auto;
+  margin-left: 120px;
+  width: 700px;
+  margin-bottom: 100px;
+}
+
+.posts li {
+  background-color: #fff;
+  border-radius: 20px;
+  border: 1px solid #d8d8d8;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  word-wrap: break-word;
+  min-height: 42px;
+}
